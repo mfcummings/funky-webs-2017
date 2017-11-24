@@ -10,6 +10,8 @@ The primary purpose of this site is to house both my personal short-form Resume,
 
 This site is a Python 3.6 Flask project built using
 
+ - Anaconda - conda version 4.3.29
+ - conda virtual environment
  - IntelliJ Idea SKD
  - [Jupyter Notebook](https://nbviewer.jupyter.org/github/mfcummings/funky-webs/tree/master/) for code prototyping
  - Git / [GitHub](https://github.com/mfcummings/funky-webs)
@@ -28,5 +30,5 @@ As much as possible, I will be updating this document based largely on my person
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI0NjYyNjNdfQ==
+eyJoaXN0b3J5IjpbMTMwMzYyNDk0NV19
 -->
