@@ -1,0 +1,31 @@
+# packages in environment at C:\ProgramData\Anaconda3\envs\funky-vm:
+#
+anaconda                  custom           py36h363777c_0  
+babel                     2.5.1                    py36_0    conda-forge
+blinker                   1.4                      py36_0    conda-forge
+certifi                   2017.11.5                py36_0    conda-forge
+click                     6.7                      py36_0    conda-forge
+coverage                  4.4.2                    py36_0    conda-forge
+flask                     0.12.2                   py36_0    conda-forge
+flask-babel               0.11.2                   py36_0    conda-forge
+flask-login               0.4.0                    py36_0    conda-forge
+flask-mail                0.9.1                    py36_1    conda-forge
+flask-sqlalchemy          2.3.2                      py_0    conda-forge
+Flask-WhooshAlchemy       0.56                      <pip>
+flask-wtf                 0.14.2                   py36_0    conda-forge
+flipflop                  1.0                       <pip>
+guess-language-spirit     0.5a5                     <pip>
+itsdangerous              0.24                       py_2    conda-forge
+jinja2                    2.9.6                    py36_0    conda-forge
+markupsafe                1.0                      py36_0    conda-forge
+pip                       9.0.1                    py36_0    conda-forge
+python                    3.6.3                         1    conda-forge
+pytz                      2017.3                     py_2    conda-forge
+setuptools                36.7.2                   py36_0    conda-forge
+sqlalchemy                1.1.13                   py36_0    conda-forge
+vs2015_runtime            14.0.25420                    0    conda-forge
+werkzeug                  0.12.2                     py_1    conda-forge
+wheel                     0.30.0                     py_1    conda-forge
+Whoosh                    2.6.0                     <pip>
+wincertstore              0.2                      py36_0    conda-forge
+wtforms                   2.1                      py36_0    conda-forge
